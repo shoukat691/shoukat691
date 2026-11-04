@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, I'm Shoukat Hussain 👋</h1>
+<h1 align="center">Hi There, I'm Shoukat Hussain </h1>
 <h3 align="center">Data Scientist & Data Automation Developer</h3>
 
 <p align="center">
@@ -9,14 +9,14 @@
 
 ---
 
-## 👨‍💻 About Me
-* 🌱 I am currently working as a Remote Data Analyst and Freelancer.
-* 🎓 I am pursuing my Bachelor's in Data Science (BSDS) from The Superior University.
-* 💡 Passionate about Python, Machine Learning, Predictive Modeling, Web Scraping, and n8n Workflow Automation.
+##  About Me
+*  I am currently working as a Remote Data Analyst and Freelancer.
+*  I am pursuing my Bachelor's in Data Science (BSDS) from The Superior University.
+*  Passionate about Python, Machine Learning, Predictive Modeling, Web Scraping, and n8n Workflow Automation.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=shoukat691&show_icons=true&theme=radical" alt="Shoukat's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukat691&layout=compact&theme=radical" alt="Top Languages" />
@@ -36,6 +36,6 @@
 
 ---
 
-## 🌐 Connect with me
-* 💼 **LinkedIn:** [Shoukat Hussain](https://www.linkedin.com/in/shoukat-masoom-7823a82a3)[span_4](start_span)[span_4](end_span)
-* 📧 **Email:** shoukatA691@gmail.com[span_5](start_span)[span_5](end_span)
+##  Connect with me
+*  **LinkedIn:** [Shoukat Hussain](https://www.linkedin.com/in/shoukat-masoom-7823a82a3)[span_4](start_span)[span_4](end_span)
+*  **Email:** shoukatA691@gmail.com[span_5](start_span)[span_5](end_span)
