@@ -37,5 +37,6 @@
 ---
 
 ##  Connect with me
-*  **LinkedIn:** [Shoukat Hussain](https://www.linkedin.com/in/shoukat-masoom-7823a82a3)[span_4](start_span)[span_4](end_span)
-*  **Email:** shoukatA691@gmail.com[span_5](start_span)[span_5](end_span)
+*  **LinkedIn:** [Shoukat Hussain](https://www.linkedin.com/in/shoukat-masoom-7823a82a3)
+*  **Email:** shoukatA691@gmail.com
+
